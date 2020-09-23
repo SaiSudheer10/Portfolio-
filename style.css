@@ -1,0 +1,32 @@
+*
+body {
+    padding:0;
+    margin:0;
+    background-image: url("bg1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  .topnav a {
+    float:right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 25px 30px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  .head h1
+  {
+      padding:180px 100px 20px 100px;
+      text-align: center;
+  }
+  .head p
+  {
+      text-align: center;
+      font-size:40px;
+  }
+  *
